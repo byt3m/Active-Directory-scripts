@@ -1,0 +1,5 @@
+<config>
+	<domain_fqdn>CONTOSO.LOCAL</domain_fqdn>
+	<mssql_port>1433</mssql_port>
+	<service_account_name>sql_service_account</service_account_name>
+</config>
